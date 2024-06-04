@@ -22,7 +22,7 @@ cd teste-api-ebac
 
 #### Para instalar as dependencias:
 ```
-npm install 
+npm install
 ```
 
 #### Para subir o servidor:
